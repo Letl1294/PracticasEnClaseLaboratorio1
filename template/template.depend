@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1538610927 source:/home/lucas/Starbuck/asdas/template/Contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+	"pantalla.h"
+
+1538611692 /home/lucas/Starbuck/asdas/template/Contratacion.h
+	"pantalla.h"
+
+1538610038 /home/lucas/Starbuck/asdas/template/pantalla.h
+
+1538528989 /home/lucas/Starbuck/asdas/template/utn.h
+
+1538672444 source:/home/lucas/Starbuck/asdas/template/informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+	"pantalla.h"
+
+1538672482 source:/home/lucas/Starbuck/asdas/template/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+	"Contratacion.h"
+	"informar.h"
+
+1538611885 /home/lucas/Starbuck/asdas/template/informar.h
+
+1538615118 source:/home/lucas/Starbuck/asdas/template/pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+
+1538608052 source:/home/lucas/Starbuck/asdas/template/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
