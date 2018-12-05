@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1529542742 source:/home/alumno/Escritorio/EjercicioPre2doParcialV2/Empleado.c
+	"Empleado.h"
+
+1529542728 /home/alumno/Escritorio/EjercicioPre2doParcialV2/Empleado.h
+
+1542151149 source:/home/alumno/Escritorio/EjercicioPre2doParcialV2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542150743 /home/alumno/Escritorio/EjercicioPre2doParcialV2/LinkedList.h
+
+1542328726 source:/home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/Empleado.c
+	"Empleado.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542325709 /home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/Empleado.h
+	"LinkedList.h"
+
+1542325589 /home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/LinkedList.h
+
+1542320598 /home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/utn.h
+
+1542325414 source:/home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542329175 source:/home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+
+1542157072 /home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/Parser.h
+	"LinkedList.h"
+
+1542325602 source:/home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/Parser.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Empleado.h"
+
+1542320680 source:/home/alumno/Escritorio/Prueba-master/EjercicioPre2doParcialV2/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
