@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536104471 source:/home/alumno/Descargas/Prueba/arrays/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1536264076 source:/home/lucas/Descargas/Prueba-master/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+
